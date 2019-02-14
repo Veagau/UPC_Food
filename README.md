@@ -11,7 +11,7 @@
 
 - 启动页
 
-  ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/start.png)
+![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/start.png)
 
 - 主页
 
@@ -22,17 +22,20 @@
 ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/taste.png)
 
 - 距离
-  ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/distance.png)
+
+![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/distance.png)
 
 - 价格
-  ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/price.png)
+
+![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/price.png)
 
 - 结果
-  ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/result.png)
+
+![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/result.png)
 
 - 结束
 
-  ![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/final.png)
+![](https://v-picgo-1252406892.cos.ap-chengdu.myqcloud.com/final.png)
 
 #### 2. 后端设计
 
